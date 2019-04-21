@@ -2,7 +2,7 @@ One of the newest requirements was being able to use React in Microsoft Sharepoi
 
 It was a nice blend of React and Sharepoint API but the catch was using TypeScript to code react. While coding AngularJS I learnt TypeScript but left it once I switched to ReactJS. 
 
-I had created a full fledged react application with created using create-react-app - fully functional and meeting the requirement of the client all written in Javascript but not in TypeScript..
+I had created a full fledged react application using create-react-app - a fully functional application was developed and met the functional requirements of the client but not language requirement - all written in Javascript but not in TypeScript.
 
 So the hunt started.. There were so many ideas .....a) converting the existing application to support TypeScript.. how  but had no idea on how to do it.. besides TypeScript had its own set of rules..b) Using TypeScript based create-react-app. c) Learning TypeScript from scratch  d) Using React Sharepoint Framework (SPFx) to generate boilerplate start up code that supports Sharepoint, TypeScript and React (yo @microsoft/sharepoint) e) Online Converters to convert JavaScript to TypeScript.. etc..
 
