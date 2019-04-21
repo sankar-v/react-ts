@@ -1,6 +1,6 @@
-One of the newest requirements was being able to use React in Microsoft Sharepoint. While I was not new to Sharepoint or react separately, together I never worked.
+One of the newest requirements was being able to use React in Microsoft Sharepoint. While I was not new to Sharepoint or react separately, I never worked on these technologies with dependency on each other.
 
-It was a nice blend of React and Sharepoint API but the catch was using TypeScript to Code react. While coding AngularJS I learnt TypeScript but left it once I switched to ReactJS. 
+It was a nice blend of React and Sharepoint API but the catch was using TypeScript to code react. While coding AngularJS I learnt TypeScript but left it once I switched to ReactJS. 
 
 I had created a full fledged react application with created using create-react-app - fully functional and meeting the requirement of the client all written in Javascript but not in TypeScript..
 
